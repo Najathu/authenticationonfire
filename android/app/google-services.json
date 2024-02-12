@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105717348781",
+    "project_id": "authenticationfireeee",
+    "storage_bucket": "authenticationfireeee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105717348781:android:9a743ff3a34445a28cc924",
+        "android_client_info": {
+          "package_name": "com.example.authenticationonfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJEQ8s-MruzB7M2iihf86PKGDQEdrT78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
